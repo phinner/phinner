@@ -1,7 +1,3 @@
-### Oh hi Mark !
+### I am a JaCython++ guy !
 
-<details>
-  <summary>Github Stats</summary>
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phinner&show_icons=true&hide_border=true&count_private=true&langs_count=5)
-</details>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phinner&show_icons=true&hide_border=true&count_private=true&langs_count=5)
