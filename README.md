@@ -1,1 +1,1 @@
-# I fucking ❤️ Java
+Java
